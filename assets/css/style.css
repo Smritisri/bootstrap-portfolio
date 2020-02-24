@@ -1,8 +1,12 @@
 .smriti-header {
   background-color: #4aaaa5;
+  width: 15% ;
+font-weight: bold;
+  text-align: left;
 }
 
 footer{
   background-color:gray;
   border-top: 5px solid #4aaaa5; 
 }
+/* .navbar-brand smriti-header */
